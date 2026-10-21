@@ -1,7 +1,6 @@
 # Spring-boot-Payment-Gateway-Integration
 Payment Gateway Integration using Java, Spring Boot, and Stripe API to create checkout sessions and process online payments.
 
-# Spring Boot Stripe Payment Gateway Integration
 
 ## Overview
 This project demonstrates the integration of the Stripe payment gateway with a Spring Boot application. It provides a backend workflow for creating Stripe Checkout Sessions and initiating online payments.
